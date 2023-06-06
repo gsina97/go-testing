@@ -1,3 +1,3 @@
-module main.go
+module stringmanip.go
 
 go 1.20
